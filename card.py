@@ -1,0 +1,6 @@
+print ("**********")
+print("*Ad: Aysel Memmedova*")
+print ("*Yas: 22*")
+print ("*Seher: Baki *")
+print ("*Boy: 1.65*")
+print ("**********")
